@@ -2,6 +2,11 @@
 
 This is a Python library that generates random passwords with a specified length, complexity, and character set. Also gives a score of given password.
 
+# Installation
+```bash
+pip install emr-password-manager
+```
+
 ## Usage
 
 ```bash
