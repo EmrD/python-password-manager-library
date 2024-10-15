@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='emr-password-manager', 
-    version='1.0.0', 
+    version='1.2.0', 
     author='Emr', 
     author_email='', 
     description='A simple password manager for generating and validating passwords.', 

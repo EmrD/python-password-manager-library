@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: emr-password-manager
-Version: 1.0.0
+Version: 1.2.0
 Summary: A simple password manager for generating and validating passwords.
 Home-page: https://github.com/EmrD/python-password-manager-library
 Author: Emr
